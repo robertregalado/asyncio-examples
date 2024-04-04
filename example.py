@@ -1,3 +1,6 @@
+# The following snippet of code will print "hello" after waiting for 1
+# second, and then print "world" after waiting for another 2 seconds.
+
 import asyncio
 import time
 
